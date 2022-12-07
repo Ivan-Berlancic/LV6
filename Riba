@@ -1,0 +1,11 @@
+public class Riba extends Zivotinja{
+    @Override
+    void kreciSe(){
+        System.out.println("plivam");
+    }
+
+    public Riba() {
+        vrsta = "riba";
+    }
+    
+}
