@@ -1,0 +1,11 @@
+public class Ptica extends Zivotinja{
+    @Override
+    void kreciSe(){
+        System.out.println("letim");
+    }
+
+    public Ptica() {
+        vrsta = "ptica";
+    }
+
+}
