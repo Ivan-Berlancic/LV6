@@ -1,0 +1,12 @@
+public class Test {
+    public static void main(String args[]){
+        Zivotinja zivotinja = new Zivotinja();
+        Konj konj = new Konj();
+        Riba riba = new Riba();
+        Ptica ptica = new Ptica();
+        zivotinja.kreciSe();
+        konj.kreciSe();
+        riba.kreciSe();
+        ptica.kreciSe();
+    }
+}
