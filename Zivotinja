@@ -1,0 +1,8 @@
+public class Zivotinja {
+    protected String vrsta;
+    void kreciSe(){
+        System.out.println("zivotinja se krece");
+    }
+            
+}
+
