@@ -1,0 +1,11 @@
+public class Konj extends Zivotinja {
+    @Override
+    void kreciSe(){
+        System.out.println("trcim");
+    }
+
+    public Konj() {
+        vrsta = "konj";
+    }
+    
+}
